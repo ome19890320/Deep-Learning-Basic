@@ -1,2 +1,2 @@
-# Deep-Learning-Basic-
+# Deep_Learning_Basic-
 my study notes
